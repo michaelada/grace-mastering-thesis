@@ -109,6 +109,8 @@ This project investigates the current state of AI-driven music mastering by cond
    - Decide on test duration and number of comparisons per participant
    - Plan the listening environment requirements (headphones vs. speakers, room acoustics)
 
+
+
 ### Deliverables
 - Complete set of AI-mastered tracks (all songs x all platforms)
 - AI mastering process documentation
