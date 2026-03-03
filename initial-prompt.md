@@ -1,3 +1,5 @@
+My Prompt
+
 I am working on my master thesis in Trinity College Dublin, the masters I am doing is in Music and Media Technologies.
 For my master thesis I am focusing on analysing and testing the advancement in music mastering using AI. My plan is broken into several steps as follows:
 

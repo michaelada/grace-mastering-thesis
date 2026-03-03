@@ -2,7 +2,7 @@
 
 ## Human vs. AI: Analysing the Advancement of AI in Music Mastering
 
-**Student:** Grace Adams
+**Student:** Grace Adams TCD Student
 **Programme:** MSc Music and Media Technologies, Trinity College Dublin
 **Duration:** 8 Weeks (2 Months)
 
